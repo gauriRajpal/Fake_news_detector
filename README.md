@@ -121,4 +121,4 @@ This project is an educational showcase, not a production-ready fact-checking en
 
 ---------------------------------------------------------------------------------
 
-🔗 Try the live app here: your-app.streamlit.app
+🔗 Try the live app here: https://fakenewsdetector-3gikgf8eaum7my6btoeyfs.streamlit.app/
