@@ -41,7 +41,7 @@ with st.sidebar:
     
     Built with ❤️ using Streamlit and scikit-learn.
     """)
-    st.markdown("[GitHub Repo](https://github.com/your-repo)", unsafe_allow_html=True)
+    st.markdown("[GitHub Repo](https://github.com/gauriRajpal/Fake_news_detector)", unsafe_allow_html=True)
 
 #Text input->
     # 1. Creates a text area box where users can write the news
